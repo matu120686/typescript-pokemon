@@ -1,2 +1,2 @@
-import hello from "./hello.js";
-hello();
+import fetchPokemon from "./fetch_pokemon.js";
+fetchPokemon();
